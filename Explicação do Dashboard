@@ -1,0 +1,29 @@
+ferramentas usadas:
+Microsoft Excel
+Power BI
+
+objetivo:
+aprimorar os meus conhecimentos de analise de dados
+
+Cadastro Cargos:
+Contém as informações de cada cargo da empresa.
+
+Cadastro Clientes:
+Contém as informações de cada cliente.
+
+Cadastro Funcionários:
+Contém as informações de funcionário da empresa.
+
+Base Serviços Prestados:
+Uma tabela com as informações dos serviços de consultoria que são prestados. Na coluna A,
+temos o ID do funcionário que está realizando aquele serviço. Na coluna B, temos o ID do cliente
+que solicitou o serviço. E na coluna C, temos a data de assinatura daquele contrato. Todos os
+clientes ainda possuem contratos vigentes com essa empresa (desde a data de contratação até o dia atual).
+
+Os Indicadores do Dashboard:
+Quantidade de Funcionários por Área.
+Total Salário por Área.
+Faturamento Total com contratos.
+Faturamento Total e Quantidade de Contratos por Área.
+Cliente c/ maior valor de contrato.
+Ticket Médio por contratos.
